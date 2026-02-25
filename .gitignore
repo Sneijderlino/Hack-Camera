@@ -1,0 +1,15 @@
+# Ignore runtime artifacts and downloads
+templates/
+ips.txt
+*.zip
+*.log
+*.png
+*.jpg
+.ngrokfolder/
+.cffolder/
+
+# macOS
+.DS_Store
+
+# Node/other
+node_modules/
